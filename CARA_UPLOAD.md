@@ -12,7 +12,7 @@
 
 2. **Jalankan script helper:**
    ```powershell
-   .\sh_to_github.ps1pu
+   .\push_to_github.ps1
    ```
    Script akan meminta username dan nama repository Anda
 
